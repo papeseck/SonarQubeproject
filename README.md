@@ -7,4 +7,5 @@
 
  
  
- 
+ <img width="920" alt="sonar" src="https://github.com/papeseck/SonarQubeproject/assets/102872504/423af727-25b5-4aef-93d2-a25c3ebfd29e">
+
